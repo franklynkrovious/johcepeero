@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://daikimeisi.lancersgaming.ca/sitemap.xml
